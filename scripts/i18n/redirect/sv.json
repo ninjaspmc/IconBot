@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Boivie",
+			"Jopparn",
+			"Lokal Profil",
+			"Stefan2255",
+			"Tobulos1",
+			"WikiPhoenix"
+		]
+	},
+	"redirect-fix-broken-moved": "Rättar trasig omdirigering från %(from)s till flyttad målsida %(to)s",
+	"redirect-fix-double": "Rättar dubbel omdirigering från %(from)s till %(to)s",
+	"redirect-fix-loop": "Fixar omdirigeringsloop från %(from)s till %(to)s",
+	"redirect-remove-broken": "Omdirigerar till en raderad eller en icke-existerande sida",
+	"redirect-remove-loop": "Målet för omdirigeringen bildar en omdirigeringsloop"
+}

@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ahonc",
+			"Andriykopanytsia",
+			"Base",
+			"Movses",
+			"Xqt",
+			"Тест"
+		]
+	},
+	"redirect-fix-broken-moved": "Виправлення розірваного перенаправлення з %(from)s на сторінку, перейменовану на %(to)s",
+	"redirect-fix-double": "Виправлення подвійного перенаправлення з %(from)s на %(to)s",
+	"redirect-fix-loop": "Виправлення петлі перенаправлень з %(from)s на %(to)s",
+	"redirect-remove-broken": "перенаправлення на вилучену або неіснуючу сторінку",
+	"redirect-remove-loop": "перенаправлення формують петлю"
+}

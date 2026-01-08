@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Les Meloures",
+			"MarcoAurelio",
+			"Robby",
+			"Volvox"
+		]
+	},
+	"redirect-fix-broken-moved": "Futtis Viruleedung vu(n) %(from)s op déi geréckelt Zilsäit %(to)s gefléckt",
+	"redirect-fix-double": "Duebel Viruleedung vu(n) %(from)s op %(to)s gefléckt",
+	"redirect-fix-loop": "Viruleedungsschleef vu(n) %(from)s op %(to)s gefléckt",
+	"redirect-remove-broken": "Viruleedung op eng geläscht Säit oder eng Säit, déi et net gëtt",
+	"redirect-remove-loop": "Viruleedung där hiert Zil zu enger endlos Schleef féiert"
+}

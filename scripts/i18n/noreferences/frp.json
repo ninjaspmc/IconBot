@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"ChrisPtDe",
+			"L'Arpetani"
+		]
+	},
+	"noreferences-add-tag": "Robot : aponsa de la balisa <references /> manquenta",
+	"noreferences-fix-tag": "Robot : corrèccion de la sintaxe nan valida de l'ètiquèta <references />"
+}
